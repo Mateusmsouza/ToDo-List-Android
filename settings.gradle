@@ -1,0 +1,4 @@
+rootProject.name='TodoList'
+include ':app'
+include ':core'
+include ':domain'
